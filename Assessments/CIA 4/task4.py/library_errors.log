@@ -1,0 +1,24 @@
+2026-11-15 13:07:08,561 - ERROR - Daily return file was not found: c:\Users\Hp\Desktop\CIA 4\task4.py\daily_returns\day1.txt
+Traceback (most recent call last):
+  File "c:\Users\Hp\Desktop\CIA 4\task4.py\task4.py", line 20, in process_daily_file
+    with open(file_path, "r", encoding="utf-8") as source:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'c:\\Users\\Hp\\Desktop\\CIA 4\\task4.py\\daily_returns\\day1.txt'
+2026-11-15 13:07:08,606 - ERROR - Daily return file was not found: c:\Users\Hp\Desktop\CIA 4\task4.py\daily_returns\day2.txt
+Traceback (most recent call last):
+  File "c:\Users\Hp\Desktop\CIA 4\task4.py\task4.py", line 20, in process_daily_file
+    with open(file_path, "r", encoding="utf-8") as source:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'c:\\Users\\Hp\\Desktop\\CIA 4\\task4.py\\daily_returns\\day2.txt'
+2026-11-15 13:07:08,608 - ERROR - Daily return file was not found: c:\Users\Hp\Desktop\CIA 4\task4.py\daily_returns\day3.txt
+Traceback (most recent call last):
+  File "c:\Users\Hp\Desktop\CIA 4\task4.py\task4.py", line 20, in process_daily_file
+    with open(file_path, "r", encoding="utf-8") as source:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'c:\\Users\\Hp\\Desktop\\CIA 4\\task4.py\\daily_returns\\day3.txt'
+2026-11-15 13:07:08,609 - ERROR - Daily return file was not found: c:\Users\Hp\Desktop\CIA 4\task4.py\daily_returns\day4.txt
+Traceback (most recent call last):
+  File "c:\Users\Hp\Desktop\CIA 4\task4.py\task4.py", line 20, in process_daily_file
+    with open(file_path, "r", encoding="utf-8") as source:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'c:\\Users\\Hp\\Desktop\\CIA 4\\task4.py\\daily_returns\\day4.txt'
