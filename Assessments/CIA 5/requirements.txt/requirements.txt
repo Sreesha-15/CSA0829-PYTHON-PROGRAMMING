@@ -1,0 +1,4 @@
+pandas
+matplotlib
+python -c "import pandas, matplotlib;
+ print('Libraries installed successfully')"
